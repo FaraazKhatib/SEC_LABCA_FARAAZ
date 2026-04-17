@@ -1,0 +1,25 @@
+2026-04-17 09:44:15,222 - INFO - {"event": "user_registered", "data": {"username": "faraaz"}, "time": "2026-04-17 09:44:15"}
+2026-04-17 09:44:20,731 - INFO - {"event": "login_success", "data": {"username": "faraaz"}, "time": "2026-04-17 09:44:20"}
+{"event": "attack_register", "data": {"username": "<script>alert(1)</script>"}, "time": "2026-04-17 09:49:58"}
+{"event": "attack_login", "data": {"username": "<script>alert(1)</script>"}, "time": "2026-04-17 09:50:05"}
+{"event": "register_success", "data": {"username": "testuser"}, "time": "2026-04-17 09:54:10"}
+{"event": "login_failed", "data": {"username": "testuser"}, "time": "2026-04-17 09:54:24"}
+{"event": "login_failed", "data": {"username": "testuser"}, "time": "2026-04-17 09:54:30"}
+{"event": "register_error", "error": ""}
+{"event": "login_failed", "data": {"username": "testuser"}, "time": "2026-04-17 09:54:42"}
+{"event": "login_failed", "data": {"username": "testuser"}, "time": "2026-04-17 09:54:49"}
+{"event": "login_failed", "data": {"username": "testuser"}, "time": "2026-04-17 09:54:53"}
+{"event": "account_locked", "data": {"username": "testuser"}, "time": "2026-04-17 09:54:57"}
+{"event": "account_locked", "data": {"username": "testuser"}, "time": "2026-04-17 09:55:09"}
+{"event": "register_error", "error": ""}
+{"event": "register_success", "data": {"username": "ishita"}, "time": "2026-04-17 10:25:13"}
+{"event": "attack_login", "data": {"username": "<script>alert(1)</script>"}, "time": "2026-04-17 10:30:43"}
+{"event": "login_failed", "data": {"username": "ishita"}, "time": "2026-04-17 10:31:27"}
+{"event": "login_failed", "data": {"username": "ishita"}, "time": "2026-04-17 10:31:32"}
+{"event": "login_failed", "data": {"username": "ishita"}, "time": "2026-04-17 10:31:38"}
+{"event": "login_failed", "data": {"username": "ishita"}, "time": "2026-04-17 10:31:42"}
+{"event": "login_failed", "data": {"username": "ishita"}, "time": "2026-04-17 10:31:45"}
+{"event": "account_locked", "data": {"username": "ishita"}, "time": "2026-04-17 10:31:49"}
+{"event": "account_locked", "data": {"username": "ishita"}, "time": "2026-04-17 10:32:00"}
+{"event": "account_locked", "data": {"username": "ishita"}, "time": "2026-04-17 10:32:09"}
+{"event": "attack_login", "data": {"username": "' OR '1'='1"}, "time": "2026-04-17 10:34:15"}
